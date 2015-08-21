@@ -33,3 +33,9 @@ Repositório de exemplo da turma  IFRN 4V
 ### Maybe a link
 
 This is my first link [FOLLOW ME ON GITHUB](https://github.com/hikee)  
+
+### ADD A SMILE
+:smile:
+:wink:
+
+
